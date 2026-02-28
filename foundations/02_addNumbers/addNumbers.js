@@ -9,6 +9,5 @@ function addNumbers() {
   return result;
 }
 
-
 // Do not change this
 module.exports = addNumbers;
